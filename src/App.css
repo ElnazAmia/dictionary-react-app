@@ -6,6 +6,8 @@ body{
 .App header{
   text-align: center;
   margin: 30px 0;
+  font-size: 48px;
+  font-family: 'Hurricane', cursive;
 }
 .App footer {
   margin: 30px 0;

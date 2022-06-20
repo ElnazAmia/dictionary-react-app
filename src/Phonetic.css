@@ -1,6 +1,6 @@
 
 .Phonetic{
-    height: 60px;
+   margin: 20px 0;
 }
 .Phonetic a{
 border: 1px solid #ddd;
@@ -18,6 +18,6 @@ margin-right: 10px;
     color: #fff;
 }
 .Phonetic .text{
-    opacity: 0.7;
+    opacity: 0.5;
     font-weight: bold;
 }
