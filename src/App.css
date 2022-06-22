@@ -1,13 +1,21 @@
 body{
   background: rgb(239, 232, 248);
 }
+.App{
+  max-width: 960px;
+  margin: 0 auto;
+}
 
 
 .App header{
   text-align: center;
-  margin: 30px 0;
-  font-size: 48px;
-  font-family: 'Hurricane', cursive;
+  margin-top: 20px;
+ 
+
+}
+.App .LogoBook{
+  width: 260px;
+  
 }
 .App footer {
   margin: 30px 0;
