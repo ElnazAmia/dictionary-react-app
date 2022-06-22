@@ -1,7 +1,7 @@
-import React from "react"
+import React from "react";
 import "./App.css";
 import Dictionary from "./Dictionary";
-import LogoBook from "./LogoBook.png"
+import LogoBook from "./LogoBook.png";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
             <a
               href="https://confident-sinoussi-76f648.netlify.app/"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Elnaz Amia
             </a>{" "}
@@ -25,7 +25,7 @@ function App() {
             <a
               href="https://github.com/ElnazAmia"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               {" "}
               GitHub
@@ -34,7 +34,7 @@ function App() {
             <a
               href="https://rainbow-dieffenbachia-339485.netlify.app/"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Netlify
             </a>
