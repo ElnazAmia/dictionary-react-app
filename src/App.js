@@ -19,8 +19,9 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Elnaz Amia 
-            </a> and is open-sourced on{" "}
+              Elnaz Amia
+            </a>{" "}
+            and is open-sourced on{" "}
             <a
               href="https://github.com/ElnazAmia"
               target="_blank"
